@@ -1,0 +1,22 @@
+{
+  "name": "FHA SOLUTIONS INC.",
+  "short_name": "FHA",
+  "description": "FHA SOLUTIONS INC. - Innovative Solutions for Modern Challenges",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#010101",
+  "theme_color": "#010101",
+  "icons": [
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/web-app-manifest-192x192-08vrmg1nTAAB3LpGASAnuaxvXdMf2r.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/web-app-manifest-512x512-ZCUnyfgMViZYMFXIGAydW1BQqGfIKD.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
